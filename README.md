@@ -24,6 +24,9 @@ Mr. Brain decided to initiate a data science project , which analyses the curren
 * The organization's average age generally falls within the 30-35 age group, where we typically see an increase in attrition rates. However, employees in their late 30s tend to stay with the organization longer and make significant contributions to the company's workflow.
 * A group of 194 employees, both male and female, who received a performance rating of 2, were gathered together to discuss ongoing problems and work on team solutions.
 * Low performance ratings are generally observed in the 20s and 30s age group. In this age group, performance can often be improved by providing proper training, encouraging employees through promotions, salary hikes, and offering growth opportunities.
+* There is a high concentration of low performance among employees with 2 years of experience in their current role, especially after 1 year of working in the company without receiving any promotions. This lack of promotion is generally one of the main reasons for underperformance, as the company has failed to keep these employees motivated.
+* Low performance is generally observed in the Sales and Research & Development departments. After analyzing the data, Mr. Brain, as a data scientist, can make informed decisions to address these issues. His decisions can help the company increase overall performance ratings
+
 
   
 
