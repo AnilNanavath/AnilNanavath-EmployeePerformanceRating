@@ -11,4 +11,6 @@ Recent years, the employee performance indexes are not healthy and this is becom
 CEO, Mr. Brain, knows the issues but concerned to take any actions in penalizing non-performing employees as this would affect the employee morale of all the employees in general and may further reduce the performance. Also, the market perception best employer and thereby attracting best talents to join the company.
 
 Mr. Brain decided to initiate a data science project , which analyses the current employee data and find the core underlying causes of this performance issues. Mr. Brain, being a data scientist himself, expects the findings of this project will help him to take right course of actions. He also expects a clear indicators of non performing employees, so that any penalization of non-performing employee, if required, may not significantly affect other employee morals.
+## Process
+The project likely starts with gathering employees-releated data this include demographic information about job rule and and feedback rating and even possibly about traning and development program 
 
