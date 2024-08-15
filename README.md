@@ -13,11 +13,10 @@ CEO, Mr. Brain, knows the issues but concerned to take any actions in penalizing
 Mr. Brain decided to initiate a data science project , which analyses the current employee data and find the core underlying causes of this performance issues. Mr. Brain, being a data scientist himself, expects the findings of this project will help him to take right course of actions. He also expects a clear indicators of non performing employees, so that any penalization of non-performing employee, if required, may not significantly affect other employee morals.
 
 ## Process and Project Insights
-* The project likely starts with gathering employees-releated data this include demographic information about job rule and and feedback rating and even possibly about traning and development program
-* The next steps would be invloved cleanning the data and handling the missing values and it preparing the data to analysis and making the data usable format for acurate analysis
-* the next step involves to identify the trends and showing casing the data into visualization format and this project likely to identify the decline employees performance and it may revalve the underpeforming 
-  department and employees details and correleation of performance. visulisation such as histograms,pie-charts and bar_charts to gain insights 
-* The data likely to add new columns conditional formatting of Age Group and filtering the data of low pwerformance
-* 
+* The project likely starts with gathering employee-related data, which includes demographic information, job roles, feedback ratings, and possibly details about training and development programs.
+* The next step involves cleaning the data, handling missing values, and preparing the data for analysis, ensuring it is in a usable format for accurate analysis.
+* The following step involves identifying trends and showcasing the data in a visual format. This project likely aims to identify declining employee performance and may reveal underperforming departments and 
+  employees, as well as correlations related to performance. Visualizations such as histograms, pie charts, and bar charts are used to gain insights.
+* The data analysis may include adding new columns, applying conditional formatting (such as categorizing age groups), and filtering data to focus on low performance
   
 
