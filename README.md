@@ -18,5 +18,7 @@ Mr. Brain decided to initiate a data science project , which analyses the curren
 * The following step involves identifying trends and showcasing the data in a visual format. This project likely aims to identify declining employee performance and may reveal underperforming departments and 
   employees, as well as correlations related to performance. Visualizations such as histograms, pie charts, and bar charts are used to gain insights.
 * The data analysis may include adding new columns, applying conditional formatting (such as categorizing age groups), and filtering data to focus on low performance
+
+## Conclusion
   
 
