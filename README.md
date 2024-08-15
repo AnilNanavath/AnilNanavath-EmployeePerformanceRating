@@ -20,5 +20,7 @@ Mr. Brain decided to initiate a data science project , which analyses the curren
 * The data analysis may include adding new columns, applying conditional formatting (such as categorizing age groups), and filtering data to focus on low performance
 
 ## Conclusion
+* The organization has a larger male workforce, with a total of 725 males, which constitutes approximately 60% of the employees. The female workforce totals 475, making up about 39.6% of the employees.
+
   
 
